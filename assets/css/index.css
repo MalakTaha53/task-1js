@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.demo{
+   background-color: teal;
+   color: #eee;
+   border: 2px solid rgb(73, 81, 81);
+   border-radius: 5px;
+   box-shadow: 10px 10px 5px 15px #eee;
+   padding: 20px;
+}
+.vip{
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 10px 10px 5px #eee;
+}
